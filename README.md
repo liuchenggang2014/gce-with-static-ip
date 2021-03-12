@@ -1,0 +1,1 @@
+# gce-with-static-ip
